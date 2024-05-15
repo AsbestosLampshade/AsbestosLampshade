@@ -1,6 +1,7 @@
 # **Alfred Augustine**
 
-> Hi, nice to meet you, I'm Alfred Augustine, a graduate Computer Engineer with an interest in tech, science and videogames. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+nice+to+meet+you,+I'm+Alfred Augustine,+a+graduate+Computer+Engineer+with+a+fervent+interest+in+tech,+science+and+videogames.)](https://git.io/typing-svg)
+
 <!--
 **AsbestosLampshade/AsbestosLampshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
