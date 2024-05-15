@@ -1,6 +1,6 @@
 # **Alfred Augustine**
 
-## Hi, nice to meet you, I'm Alfred Augustine, a graduate Computer Engineer with an interest in tech, science and videogames. 
+> Hi, nice to meet you, I'm Alfred Augustine, a graduate Computer Engineer with an interest in tech, science and videogames. 
 <!--
 **AsbestosLampshade/AsbestosLampshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
