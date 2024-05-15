@@ -1,8 +1,8 @@
 # **My bio**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times&weight=900&size=30&duration=1500&pause=1000&color=F7F5D1&center=true&multiline=true&random=false&width=435&lines=Hi%2C+nice+to+meet+you.;I'm+Alfred+Augustine" alt="Typing SVG" /></a>
-<b>
-<b>
+<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=c,c++,python)](https://skillicons.dev)
 <!--
 **AsbestosLampshade/AsbestosLampshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
