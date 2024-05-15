@@ -1,6 +1,6 @@
 # **Alfred Augustine**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+nice+to+meet+you,+I'm+Alfred Augustine,+a+graduate+Computer+Engineer+with+a+fervent+interest+in+tech,+science+and+videogames.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times&weight=900&size=30&pause=1000&center=true&multiline=true&random=false&width=435&lines=Hi%2C+nice+to+meet+you.;I'm+Alfred+Augustine" alt="Typing SVG" /></a>
 
 <!--
 **AsbestosLampshade/AsbestosLampshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
