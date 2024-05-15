@@ -17,7 +17,9 @@
 >Do feel free to send me a message anytime
 
 >📫 How to reach me:
->Linked-in:
+
+<a href="https://in.linkedin.com/in/alfred-augustine-13405517b">Linked-in</a>
+
 >e-mail:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsbestosLampshade&hide=contribs,prs)
