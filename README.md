@@ -5,6 +5,7 @@
 >Have 6 months of work experience with C++ and CI/CD
 >Hoping to find fun projects to work in
 
+>Here are a list of Languages I am comfortable working with :
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
@@ -12,7 +13,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsbestosLampshade&hide=contribs,prs)
+![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api?username=AsbestosLampshade&hide=contribs,prs)
 <!--
 **AsbestosLampshade/AsbestosLampshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
