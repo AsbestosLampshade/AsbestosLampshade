@@ -13,7 +13,14 @@
   </a>
 </p>
 
-![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api?username=AsbestosLampshade&hide=contribs,prs)
+>I'm currently looking to collaborate on projects on these languages
+>Do feel free to send me a message anytime
+
+>📫 How to reach me:
+>Linked-in:
+>e-mail:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsbestosLampshade&hide=contribs,prs)
 <!--
 **AsbestosLampshade/AsbestosLampshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
