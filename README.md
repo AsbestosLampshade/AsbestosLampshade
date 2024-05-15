@@ -16,11 +16,11 @@
 >I'm currently looking to collaborate on projects on these languages
 >Do feel free to send me a message anytime
 
->📫 How to reach me:
+## How to reach me:
 
 <a href="https://in.linkedin.com/in/alfred-augustine-13405517b">Linked-in</a>
 
->e-mail:
+<a href="alfi.george@gmail.com">e-mail</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsbestosLampshade&hide=contribs,prs)
 <!--
